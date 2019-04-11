@@ -71,5 +71,3 @@ textarea {
   height: 300px;
 }
 ```
-
-For more queries you can check this [link](https://stackoverflow.com/questions/34034475/edit-and-save-a-file-locally-with-js)
