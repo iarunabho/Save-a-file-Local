@@ -4,12 +4,14 @@
  * @Last Modified by: iarunabho
  * @Last Modified time: 2019-04-11 18:19:36 -->
 
-#For Downloading the code
+# For Downloading the code
 
-- Open your terminal and copy the below code
+- Open your terminal and paste ->
   `git clone https://github.com/iarunabho/Save-a-file-Local.git`
 
-#CODE
+# CODE
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `JS`
 
 ```javascript
 var input = document.querySelector('input[type=file]');
@@ -48,6 +50,8 @@ button.onclick = function(e) {
 };
 ```
 
+- ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `HTML`
+
 ```Html
 <form>
   <input type="file" />
@@ -57,6 +61,8 @@ button.onclick = function(e) {
   <input type="button" disabled="true" value="Save" />
 </form>
 ```
+
+- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `CSS`
 
 ```CSS
 textarea {
