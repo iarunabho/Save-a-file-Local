@@ -50,7 +50,7 @@ button.onclick = function(e) {
 };
 ```
 
-- ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `HTML`
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `HTML`
 
 ```Html
 <form>
@@ -62,7 +62,7 @@ button.onclick = function(e) {
 </form>
 ```
 
-- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `CSS`
+![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `CSS`
 
 ```CSS
 textarea {
